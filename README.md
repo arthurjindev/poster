@@ -4,6 +4,10 @@
 
 A Codex skill for turning DOCX, PDF, PPT, text, or image-based project materials into editable Chinese BIM report posters.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a42fbbca-d7ed-49b9-8502-b7a0ecb1efed" alt="Reposter Share BIM海报制作流程" width="100%">
+</p>
+
 ---
 
 ## 中文说明
