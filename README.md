@@ -1,6 +1,6 @@
 # Reposter Share
 
-一个用于将 DOCX、PDF、PPT、文字或图片资料整理为中文 BIM 项目汇报海报的 Codex Skill。
+一个用于将 DOCX、PDF、PPT、文字或图片资料整理为海报的 Codex Skill。
 
 A Codex skill for turning DOCX, PDF, PPT, text, or image-based project materials into editable Chinese BIM report posters.
 
@@ -14,7 +14,7 @@ A Codex skill for turning DOCX, PDF, PPT, text, or image-based project materials
 
 ### 功能
 
-Reposter Share 提供一套完整、可执行的 BIM 海报制作流程，包括：
+Reposter Share 提供一套完整、可执行的海报制作流程，包括：
 
 - 提取项目名称、地点、面积、用途及 BIM 应用点
 - 将长篇项目资料压缩为适合海报展示的简洁文案
