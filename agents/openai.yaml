@@ -1,0 +1,6 @@
+interface:
+  display_name: "reposter share"
+  short_description: "Turn project docs into blue-white BIM report posters."
+  default_prompt: "Use $reposter-share to turn this project document into a Chinese BIM report poster."
+policy:
+  allow_implicit_invocation: true
