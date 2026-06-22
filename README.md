@@ -2,7 +2,7 @@
 
 一个用于将 DOCX、PDF、PPT、文字或图片资料整理为海报的 Codex Skill。
 
-A Codex skill for turning DOCX, PDF, PPT, text, or image-based project materials into editable Chinese BIM report posters.
+A Codex skill for turning DOCX, PDF, PPT, text, or image-based project materials into editable Chinese  report posters.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a42fbbca-d7ed-49b9-8502-b7a0ecb1efed" alt="Reposter Share BIM海报制作流程" width="100%">
@@ -42,13 +42,13 @@ https://github.com/arthurjindev/poster
 ### 使用示例
 
 ```text
-使用 $reposter-share，将这份项目 Word 文档制作成一张中文 BIM 项目汇报海报。
+使用 $reposter-share，将这份项目 Word 文档制作成一张 项目汇报海报。
 ```
 
 ### 工作流程
 
 1. 读取并核对项目资料。
-2. 整理标题、项目概况、BIM 应用点和成果文案。
+2. 整理标题、项目概况、应用点和成果文案。
 3. 分类并选择一张主图及三至四张辅助图。
 4. 清理、裁剪或按需重建视觉素材。
 5. 建立可编辑的蓝白技术风格版式。
